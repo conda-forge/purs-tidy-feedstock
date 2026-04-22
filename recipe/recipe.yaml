@@ -1,5 +1,5 @@
 context:
-  version: 0.11.0
+  version: "0.11.1"
 
 package:
   name: purs-tidy
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/purs-tidy/-/purs-tidy-${{ version }}.tgz
-  sha256: c09ece1b602946bf19a7a6958d1c12087ff26addaac76273a336df5381790d85
+  sha256: f9b5fe367b70670ed86203b592448648b9e95dbf229a03c1d900a3447ea1b281
 
 build:
   number: 0
